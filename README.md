@@ -54,7 +54,7 @@ ReelNest-React-Movie-Watchlist/
 
 ## Assignment submission details
 - Learner Name: Devadharshini V
-- Batch Code: **[Enter your exact batch code]**
+- Batch Code: **[Agentic FSD-ANB49]**
 - Assignment: Assignment No. 4 — Build a Movie Watchlist App with React
 - Suggested GitHub repository: `reelnest-react-movie-watchlist`
 
